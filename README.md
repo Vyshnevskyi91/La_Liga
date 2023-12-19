@@ -1,6 +1,6 @@
 # Web scraping LaLiga standings
 ![](https://logospng.org/download/la-liga/logo-la-liga-2048.png)
-'''
+
 |   # | Team            |   Pl |   W |   D |   L |   F |   A |   GD |   Pts |
 |-----|-----------------|------|-----|-----|-----|-----|-----|------|-------|
 |   1 | Girona          |   17 |  14 |   2 |   1 |  41 |  20 |   21 |    44 |
@@ -23,4 +23,3 @@
 |  18 | Celta Vigo      |   17 |   2 |   7 |   8 |  16 |  25 |   -9 |    13 |
 |  19 | Granada         |   17 |   1 |   5 |  11 |  20 |  37 |  -17 |     8 |
 |  20 | Almeria         |   17 |   0 |   5 |  12 |  17 |  39 |  -22 |     5 |
-'''
