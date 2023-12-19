@@ -1,6 +1,6 @@
 # Web scraping LaLiga standings
 ![](https://logospng.org/download/la-liga/logo-la-liga-2048.png)
-	Team	Pl	W	D	L	F	A	GD	Pts
+'''	Team	Pl	W	D	L	F	A	GD	Pts
 #									
 1	Real Madrid	15	12	2	1	33	9	24	38
 2	Girona	15	12	2	1	34	18	16	38
@@ -22,3 +22,4 @@
 18	Celta Vigo	15	1	6	8	15	25	-10	9
 19	Granada	15	1	4	10	19	35	-16	7
 20	Almeria	15	0	4	11	16	37	-21	4
+'''
