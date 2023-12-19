@@ -1,25 +1,4 @@
 # Web scraping LaLiga standings
 ![](https://logospng.org/download/la-liga/logo-la-liga-2048.png)
-'''	Team	Pl	W	D	L	F	A	GD	Pts
-#									
-1	Real Madrid	15	12	2	1	33	9	24	38
-2	Girona	15	12	2	1	34	18	16	38
-3	Barcelona	15	10	4	1	28	14	14	34
-4	Atletico Madrid	14	10	1	3	30	13	17	31
-5	Athletic Bilbao	15	8	4	3	30	18	12	28
-6	Real Sociedad	15	7	5	3	26	18	8	26
-7	Real Betis	15	6	7	2	18	16	2	25
-8	Las Palmas	15	6	3	6	13	13	0	21
-9	Valencia	15	5	4	6	17	20	-3	19
-10	Getafe	15	4	7	4	17	20	-3	19
-11	Rayo Vallecano	15	4	7	4	16	22	-6	19
-12	Villarreal	15	4	4	7	22	26	-4	16
-13	Alaves	15	4	4	7	14	19	-5	16
-14	Osasuna	15	4	3	8	17	25	-8	15
-15	Sevilla	14	2	7	5	20	20	0	13
-16	Cadiz	15	2	6	7	12	22	-10	12
-17	Real Mallorca	15	1	8	6	13	20	-7	11
-18	Celta Vigo	15	1	6	8	15	25	-10	9
-19	Granada	15	1	4	10	19	35	-16	7
-20	Almeria	15	0	4	11	16	37	-21	4
-'''
+
+'|   # | Team            |   Pl |   W |   D |   L |   F |   A |   GD |   Pts |\n|----:|:----------------|-----:|----:|----:|----:|----:|----:|-----:|------:|\n|   1 | Girona          |   17 |  14 |   2 |   1 |  41 |  20 |   21 |    44 |\n|   2 | Real Madrid     |   17 |  13 |   3 |   1 |  38 |  11 |   27 |    42 |\n|   3 | Barcelona       |   17 |  10 |   5 |   2 |  31 |  19 |   12 |    35 |\n|   4 | Atletico Madrid |   16 |  11 |   1 |   4 |  32 |  16 |   16 |    34 |\n|   5 | Athletic Bilbao |   17 |   9 |   5 |   3 |  33 |  19 |   14 |    32 |\n|   6 | Real Sociedad   |   17 |   8 |   6 |   3 |  29 |  18 |   11 |    30 |\n|   7 | Real Betis      |   17 |   6 |   9 |   2 |  19 |  17 |    2 |    27 |\n|   8 | Getafe          |   17 |   6 |   7 |   4 |  21 |  20 |    1 |    25 |\n|   9 | Las Palmas      |   17 |   7 |   4 |   6 |  15 |  14 |    1 |    25 |\n|  10 | Valencia        |   17 |   5 |   5 |   7 |  18 |  22 |   -4 |    20 |\n|  11 | Rayo Vallecano  |   17 |   4 |   8 |   5 |  16 |  23 |   -7 |    20 |\n|  12 | Osasuna         |   17 |   5 |   4 |   8 |  19 |  26 |   -7 |    19 |\n|  13 | Alaves          |   17 |   4 |   4 |   9 |  14 |  23 |   -9 |    16 |\n|  14 | Villarreal      |   17 |   4 |   4 |   9 |  23 |  33 |  -10 |    16 |\n|  15 | Real Mallorca   |   17 |   2 |   9 |   6 |  14 |  20 |   -6 |    15 |\n|  16 | Cadiz           |   17 |   2 |   8 |   7 |  14 |  24 |  -10 |    14 |\n|  17 | Sevilla         |   16 |   2 |   7 |   7 |  20 |  24 |   -4 |    13 |\n|  18 | Celta Vigo      |   17 |   2 |   7 |   8 |  16 |  25 |   -9 |    13 |\n|  19 | Granada         |   17 |   1 |   5 |  11 |  20 |  37 |  -17 |     8 |\n|  20 | Almeria         |   17 |   0 |   5 |  12 |  17 |  39 |  -22 |     5 |'
